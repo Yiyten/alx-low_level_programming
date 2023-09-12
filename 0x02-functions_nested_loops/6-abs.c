@@ -2,7 +2,7 @@
 
 /**
  * _abs - function that compute the absolte
- * 	value of an integer
+ *	value of an integer
  *
  * @n: takes in integer type input for function
  *

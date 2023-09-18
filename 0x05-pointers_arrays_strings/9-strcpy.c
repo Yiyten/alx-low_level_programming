@@ -3,10 +3,10 @@
 /**
  * *_strcpy - copies the string pointed to by src
  * 8dest: char type string
- * 8src:char type string
- * Description: copy the string pointed to by pointer 'src' to parameter or member 'dest' parameter or member 'src'
+ * 8src: char type string
+ * Description: Copy the string pointed to by pointer 'src' to
  * the buffer pointed to by 'dest'
- * Return: pointer to 'dest'
+ * Return: Pointer to 'dest'
  */
 
 char *_strcpy(char *dest, char *src)

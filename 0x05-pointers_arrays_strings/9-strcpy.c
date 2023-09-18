@@ -5,7 +5,7 @@
  * 8dest: char type string
  * 8src:char type string
  * Description: copy the string pointed to by pointer 'src' to
- * 	the buffer pointed to by 'dest'
+ * the buffer pointed to by 'dest'
  * Return: pointer to 'dest'
  */
 

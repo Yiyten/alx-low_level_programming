@@ -40,7 +40,7 @@ void printHexes(char *b, int start, int end)
  * formatted to replace nonprintable chars with '.'
  * @b: string to print
  * @start: starting position
- * @end: ending postion
+ * @end: ending position
 */
 
 void printASCII(char *b, int start, int end)

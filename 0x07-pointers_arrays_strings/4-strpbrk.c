@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strpork - search string to one of a set bytes
+ * _strpbrk - search string to one of a set bytes
  * @s: string
  * @accept: string to match
  * Return: pointer to the byte in s that matches one of the bytes in accept

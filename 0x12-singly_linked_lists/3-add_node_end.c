@@ -18,7 +18,7 @@ unsigned int _strlen(char *str)
 }
 
 /**
- * Add_node_end - adds a New node to the end of linked list
+ * add_node_end - adds a New node to the end of linked list
  * @head: Double Pointer to a linked list
  * @str: String to add to the new node
  *
